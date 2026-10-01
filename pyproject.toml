@@ -1,7 +1,7 @@
 [project]
 name = "nod-coding-bootcamp"
 version = "0.1.0"
-description = "Add your description here"
+description = "Exercises and codealongs from the NOD coding bootcamp: Python, pandas, SQL and data visualization"
 readme = "README.md"
 authors = [
     { name = "Hugo317", email = "hugomnc317@gmail.com" }
